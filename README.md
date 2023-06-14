@@ -17,9 +17,12 @@ A Python-based attendance system incorporating facial recognition developed by u
 
 ### Steps to run the file:
 
-Step 1: Download the zip file of the repository and extract all files/folders. 
+Step 1: Download the zip file of the repository and extract all files/folders.
+
 Step 2: Create a 'TrainingImage' folder in the project.
+
 Step 3: Open a `AMS_Run.py` and change the all paths with your system path.
+
 Step 4: Run 'AMS_Run.py'.
 
 
